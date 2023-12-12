@@ -2,7 +2,7 @@
     "name": "namegetter/namegetter",
     "type": "library",
     "description": "Get name",
-    "keywords": ["name",""],
+    "keywords": ["name"],
     "autoload": {
         "psr-4": {
             "Admin\\NewPackage\\": "src/"
@@ -13,6 +13,5 @@
             "name": "Gautier Fadonougbo",
             "email": "fadougbogautier@gmail.com"
         }
-    ],
-    "require": {}
+    ]
 }
